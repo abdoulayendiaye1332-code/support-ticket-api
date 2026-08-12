@@ -1,0 +1,47 @@
+[
+  {
+    "id": "regle_1_1",
+    "texte": "Si le client signale un produit cassé, fissuré ou endommagé, et fournit une photo probante de l'article dans un délai de 48 heures suivant la réception, le dossier est éligible à un remboursement intégral ou à un renvoi gratuit.",
+    "statut_associe": "Remboursable"
+  },
+  {
+    "id": "regle_1_2",
+    "texte": "Si la réclamation pour produit cassé est faite après un délai de 48 heures, la demande est soumise à validation manuelle du manager.",
+    "statut_associe": "À vérifier"
+  },
+  {
+    "id": "regle_2_1",
+    "texte": "Si le produit reçu ne correspond pas en termes de modèle, de couleur ou de taille par rapport à la commande initiale, l'échange est entièrement pris en charge par l'entreprise, frais de retour offerts.",
+    "statut_associe": "Échange gratuit"
+  },
+  {
+    "id": "regle_2_2",
+    "texte": "Si un accessoire ou une pièce d'un kit est manquant à la réception, l'entreprise s'engage à expédier uniquement la pièce manquante sous 3 jours ouvrés.",
+    "statut_associe": "Expédition de pièce"
+  },
+  {
+    "id": "regle_3_1",
+    "texte": "Un retard de livraison inférieur ou égal à 3 jours ouvrés par rapport à la date estimée ne donne droit à aucun dédommagement financier.",
+    "statut_associe": "Non remboursable - Retard mineur"
+  },
+  {
+    "id": "regle_3_2",
+    "texte": "Un retard supérieur à 5 jours ouvrés donne droit à un bon d'achat de 10% valable sur la prochaine commande.",
+    "statut_associe": "Dédommagement 10%"
+  },
+  {
+    "id": "regle_3_3",
+    "texte": "Si le statut du transporteur indique Bloqué ou Perdu depuis plus de 7 jours, un remboursement total est déclenché automatiquement après enquête transporteur.",
+    "statut_associe": "Remboursable - Colis perdu"
+  },
+  {
+    "id": "regle_4_1",
+    "texte": "Si l'analyse visuelle ou la description audio montre que le défaut est dû à une mauvaise manipulation du client, à une chute après réception ou à une usure normale, la réclamation est rejetée.",
+    "statut_associe": "Refusé"
+  },
+  {
+    "id": "regle_4_2",
+    "texte": "Toute réclamation concernant un produit endommagé ou non conforme qui ne comporte ni photo probante ni description claire par message vocal sera mise en attente de pièces complémentaires.",
+    "statut_associe": "En attente de justificatifs"
+  }
+]
