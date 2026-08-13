@@ -177,7 +177,7 @@ documentaire.
 
 ## Gestion de projet
 
-- **Kanban** : [lien à ajouter] — colonnes Backlog / In Progress / Review / Done.
+- **Kanban** : https://trello.com/b/MleCGm8s/support-ticket-api — colonnes Backlog / In Progress / Review / Done.
 - **Git Flow** : `main` (stable) / `develop` (intégration) / `feature/...`
   (une branche par fonctionnalité, fusionnée dans `develop` via merge `--no-ff`).
 
