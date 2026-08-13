@@ -172,7 +172,7 @@ documentaire.
 -  Cas texte seul (`description`) : validé, RAG retourne la bonne règle avec
   un statut cohérent.
 -  Cas image seule : validé, `diagnostic_image` génère un résultat exploitable.
--  Cas audio : en cours de validation.
+-  Cas audio : validé, transcription exacte et RAG cohérent.
 -  Cas combiné (audio + image + description) : à tester.
 
 ## Gestion de projet
